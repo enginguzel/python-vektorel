@@ -1,1 +1,2 @@
 # python-vektorel
+, eksik
