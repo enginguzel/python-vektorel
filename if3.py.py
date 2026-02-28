@@ -1,0 +1,5 @@
+not1 = input("notun kaç?")
+if not1>90 : print("süper")
+elif not1>70 : print("iyi")
+elif not1>50 : print("geçti")
+else : print("kaldi")
